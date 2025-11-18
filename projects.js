@@ -1,10 +1,10 @@
 // Simple projects data - easy to customize!
 const projects = [
   {
-    title: "Project One",
-    description: "A beautiful website built with HTML, CSS, and JavaScript",
-    tags: ["HTML", "CSS", "JavaScript"],
-    link: "#",
+    title: "Reika Egg Hunt",
+    description: "A CTF-esque website built with React and TypeScript",
+    tags: ["React", "CSS", "TypeScript"],
+    link: "https://reikaegghunt.vercel.app",
   },
   {
     title: "Project Two",
